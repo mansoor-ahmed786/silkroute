@@ -1,0 +1,6 @@
+{
+  "name": "Silk Route – Premium International Wholesale Textiles",
+  "description": "Premier international wholesale fabric supplier connecting global clothing brands, boutique owners, and textile distributors with curated luxury unstitched fabrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
